@@ -1,0 +1,3 @@
+siewwee = "chio"
+
+print(siewwee)
